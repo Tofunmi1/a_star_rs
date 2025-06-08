@@ -1,0 +1,1 @@
+cell(each cell has a x,y coordinate) -> grid(array of cells) -> app (rendering handling window, etc)
